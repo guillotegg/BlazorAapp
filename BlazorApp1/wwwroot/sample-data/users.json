@@ -1,0 +1,32 @@
+﻿[
+    {
+        "login": "ggimenez",
+        "firstname": "Guillermo",
+        "lastname": "Gimenez",
+        "dob": "1980-02-19"
+    },
+    {
+        "login": "cpappalardo",
+        "firstname": "Claudio",
+        "lastname": "Pappalardo",
+        "dob": "2019-09-09"
+    },
+    {
+        "login": "jmazzara",
+        "firstname": "Juan",
+        "lastname": "Mazzara",
+        "dob": "2019-09-09"
+    },
+    {
+        "login": "jmanzone",
+        "firstname": "Juan Pablo",
+        "lastname": "Manzone",
+        "dob": "2019-09-09"
+    },
+    {
+        "login": "mcasanova",
+        "firstname": "Matias",
+        "lastname": "Casanova",
+        "dob": "2019-09-09"
+    }
+]
